@@ -1,6 +1,6 @@
 //https://github.com/dalwer001/assignment-3
 
-//Convert kilometer to meter. give input as a kilometer and ouput will convert kilometer to meter.
+//Convert kilometer to meter. give input as a kilometer and output will convert kilometer to meter.
 function kilometerToMeter(distance){
     if(distance<0)
     {
