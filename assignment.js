@@ -93,7 +93,7 @@ function hotelCost(days){
 
 
 
-// Findout the largest string (name) from Array.
+// Findout the largest string (name) from an Array.
 
 function megaFriend(friendname){
     var largest = friendname[0]
